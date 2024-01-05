@@ -58,7 +58,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [ABee-Tech/node-ts-api-base](https://github.com/ABee-Tech/node-ts-api-base)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|56<br/>Tools used|12/22/23 <br/>Report generated|
+|57<br/>Tools used|01/05/24 <br/>Report generated|
 |------|------|
 </div>
 
@@ -282,9 +282,9 @@ Full tech stack [here](/techstack.md)
 </table>
 
 
-## <img src='https://img.stackshare.io/group.svg' /> Open source packages (32)</h2>
+## <img src='https://img.stackshare.io/group.svg' /> Open source packages (33)</h2>
 
-## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (32)
+## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (33)
 
 |NAME|VERSION|LAST UPDATED|LAST UPDATED BY|LICENSE|VULNERABILITIES|
 |:------|:------|:------|:------|:------|:------|
@@ -312,6 +312,7 @@ Full tech stack [here](/techstack.md)
 |[eslint-plugin-prettier](https://www.npmjs.com/eslint-plugin-prettier)|v4.0.0|04/18/22|dependabot[bot] |MIT|N/A|
 |[express](https://www.npmjs.com/express)|v4.17.3|04/18/22|dependabot[bot] |MIT|N/A|
 |[helmet](https://www.npmjs.com/helmet)|v5.0.2|01/25/22|dependabot[bot] |MIT|N/A|
+|[husky](https://www.npmjs.com/husky)|v7.0.4|11/01/21|dependabot[bot] |MIT|N/A|
 |[jsonwebtoken](https://www.npmjs.com/jsonwebtoken)|v8.5.1|01/17/22|dependabot[bot] |MIT|[CVE-2022-23529](https://github.com/advisories/GHSA-27h2-hvpr-p74q) (High)<br/>[CVE-2022-23539](https://github.com/advisories/GHSA-8cf7-32gw-wr33) (Moderate)<br/>[CVE-2022-23540](https://github.com/advisories/GHSA-qwph-4952-7xr6) (Moderate)<br/>[CVE-2022-23541](https://github.com/advisories/GHSA-hjrf-2m68-5959) (Moderate)|
 |[morgan](https://www.npmjs.com/morgan)|v1.10.0|07/12/21|dependabot[bot] |MIT|N/A|
 |[multer](https://www.npmjs.com/multer)|v1.3.0|12/27/21|dependabot[bot] |MIT|N/A|
