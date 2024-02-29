@@ -2,7 +2,7 @@ repo_name: ABee-Tech/node-ts-api-base
 report_id: 81b0c8e5ce730688ee0f9fce2b4bdf3f
 version: 0.1
 repo_type: Public
-timestamp: '2024-01-05T08:16:57+00:00'
+timestamp: '2024-02-29T19:10:47+00:00'
 requested_by: dependabot[bot]
 provider: github
 branch: master
@@ -186,7 +186,7 @@ tools:
   last_updated_by: Alexis Zucco [Macbook]
   last_updated_on: 2020-09-01 13:25:12.000000000 Z
 - name: Prettier
-  description: 'Prettier is an opinionated code formatter. '
+  description: Prettier is an opinionated code formatter.
   website_url: https://prettier.io/
   version: 2.6.2
   license: MIT
@@ -200,7 +200,7 @@ tools:
   last_updated_by: dependabot[bot]
   last_updated_on: 2022-04-18 14:09:38.000000000 Z
 - name: SuperTest
-  description: 'A library for testing node.js HTTP servers '
+  description: A library for testing node.js HTTP servers
   website_url: https://www.npmjs.com/package/supertest
   version: 6.2.2
   license: MIT
